@@ -1,3 +1,3 @@
 Metodos Numéricos UFRJ 
 
-INTERPOLAÇÃO POLINOMIAL. FUNÇÕES SPLINE. AJUSTE DE CURVAS. INTEGRAÇÃO NUMÉRICA. MATRIZ SIMÉTRICA. MATRIZ DEFINIDA POSITIVA. MÉTODOS DIRETOS (GRAUSS, LU, CHOLESKY), E ITERATIVOS (GAUSS-JACOBI, GAUSS-SEIDEL, GRADIENTE CONJUGADO) PARA SISTEMA LINEAR. SISTEMA NÃO LINEAR. ELEMENTOS DE ÁLGEBRA LINEAR. NÚMERO DE CONDICIONAMENTO. PROPAGAÇÃO DE ERROS. RESOLUÇÃO NUMÉRICA DE GRANDES SISTEMAS ESPARSOS. MÉTODOS NUMÉRICOS PARA EQUAÇÕES DIFERENCIAIS.
+Interpolação Polinomial. Funções Spline. Ajuste de Curvas. Integração Numérica. Matriz Simétrica. Matriz Definida Positiva. Métodos Diretos (grauss, Lu, Cholesky), e Iterativos (gauss-jacobi, Gauss-seidel, Gradiente Conjugado) para Sistema Linear. Sistema Não Linear. Elementos de Álgebra Linear. Número de Condicionamento. Propagação de Erros. Resolução Numérica de Grandes Sistemas Esparsos. Métodos Numéricos para Equações Diferenciais.
